@@ -1,4 +1,4 @@
-# SocialNetwork
+# MetaNetwork
 A user hosted irc revamp with politics packaged into the individual forums. 
 Serverless with content being served from workstations.
 files shared are to be spread across workstations in order to keep anonymity.

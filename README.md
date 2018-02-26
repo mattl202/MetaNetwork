@@ -34,6 +34,10 @@ To allow people to choose their own adventure, to choose their own dialogue with
 ## Possible plans:
 Make communities private unless you know the name. (Possibly have communities that are just for spotting communities people may desire to be a part of (Like a bulletin board)) 
 
+### MTN Protocol
+The way that data is transferred is to be through a new protocol, called "mtn", pronounced mountain, short for MetaNetwork.
+this is to be a way to clearly seperate it from http or a website, this is to be completely seperate from a standard website protocol, something closer to torrents.
+
 ### The Library
 In the library is stored the Archives of conversation pieces that forums have decided politically to put into the archive.
 The forums are to decide amongst these things before submitting to the Library:
